@@ -6,3 +6,5 @@ git clone https://github.com/imaspacecat/swerve-kinematics-sim.git
 cd swerve-kinematics-sim
 npm start
 ```
+
+![swerve kinematics sim example](swerve-sim-ex.png)
