@@ -7,4 +7,4 @@ cd swerve-kinematics-sim
 npm start
 ```
 
-![swerve kinematics sim example](swerve-sim-ex.png)
+![swerve kinematics sim example](https://github.com/imaspacecat/swerve-kinematics-sim/blob/master/swerve-sim-ex.PNG)
